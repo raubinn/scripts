@@ -1,4 +1,4 @@
-local TARGET_FRAMERATE = 3
+local TARGET_FRAMERATE = 10
 
 while true do
     game:GetService("RunService").RenderStepped:Wait()
