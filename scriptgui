@@ -1,0 +1,7 @@
+if game.placeId == 2753915549 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/raubinn/scripts/main/Bloxfruit%20Exploit", true))()
+else
+if game.placeId == 10710676163 or 2202352383 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/raubinn/scripts/main/SPTS%20Exploit", true))()
+end
+end
