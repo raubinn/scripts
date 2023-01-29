@@ -1,14 +1,14 @@
 local icons = {
 	FluentIcons = {
-		1 = "rbxassetid://9792462652",
-		2 = "rbxassetid://9766671041",
-		3 = "rbxassetid://9766673555",
-		4 = "rbxassetid://9766672602",
-		5 = "rbxassetid://9766671943",
-		6 = "rbxassetid://9766674082",
-		7 = "rbxassetid://9766675093",
-		8 = "rbxassetid://9766676906",
-    9 = "rbxassetid://4483362304"
+		Home = "rbxassetid://9792462652",
+		Aimbot = "rbxassetid://9766671041",
+		Visuals = "rbxassetid://9766673555",
+		Player = "rbxassetid://9766672602",
+		Misc = "rbxassetid://9766671943",
+		Settings = "rbxassetid://9766674082",
+		Credits = "rbxassetid://9766675093",
+		Exit = "rbxassetid://9766676906"
+		Another1 = "rbxassetid://4483362304"
 	},
 	FeatherIcons = {
 		Home = "rbxassetid://9792650361",
