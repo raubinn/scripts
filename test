@@ -31,7 +31,7 @@ function CreateEsp(Player)
                 if Config.BoxOutline then
                     BoxOutline.Visible = IsVisible
                     BoxOutline.Color = Config.BoxOutlineColor
-                    BoxOutline.Size = Vector2.new(width,height)
+                    BoxOutline.Size = Vector3.new(4,6,0),
                     BoxOutline.Position = Vector2.new(Target2dPosition.X - Box.Size.X / 2,Target2dPosition.Y - Box.Size.Y / 2)
                     BoxOutline.Thickness = 3
                     BoxOutline.ZIndex = 1
